@@ -1,0 +1,15 @@
+{
+	"debugger": {
+		"title": "Doppelgänger Debugging Tools",
+		"description": "A collection of in-game utilities to aid in Doppelgänger development.",
+		"authors": ["Cosinami <git@cosinami.com>"],
+		"source": "https://github.com/cosinami/dg-debugger.git",
+		"manifest": "manifest.yaml",
+		"versions": [
+			{
+				"tag": "v0.0.1",
+				"hash": "c5efbb5c847074ff2be905c33494fcbfb70a80c9"
+			}
+		]
+	}
+}
